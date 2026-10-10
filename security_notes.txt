@@ -1,0 +1,3 @@
+Validate input before using it.
+Use parameterized queries to reduce SQL injection risk.
+Keep secrets out of source code
